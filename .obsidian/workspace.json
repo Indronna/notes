@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a3eebe44b3f513b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tekken 8/Leo/Moves importants.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tekken 8/Leo/Moves importants.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tekken 8/Leo/Moves importants.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031ff2d4fa887fca",
+  "active": "3a3eebe44b3f513b",
   "lastOpenFiles": [
-    "Tekken 8/Leo/Punish.md",
-    "Tekken 8/Leo/Moves importants.md"
+    "Tekken 8/Leo/Moves importants.md",
+    "README.md",
+    "Untitled",
+    "Tekken 8/Leo/Punish.md"
   ]
 }
